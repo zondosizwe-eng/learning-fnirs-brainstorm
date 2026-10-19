@@ -42,8 +42,8 @@ In our single-condition, single-participant run:
 4. Click **Run**.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson14-average-settings.png" alt="Average Everything settings"><figcaption>Arithmetic average across the supplied epochs.</figcaption></figure>
-<figure><img src="../assets/lesson14-run-settings.png" alt="Final average process configuration"><figcaption>Final process check before running.</figcaption></figure>
+<figure><img src="../../assets/lesson14-average-settings.png" alt="Average Everything settings"><figcaption>Arithmetic average across the supplied epochs.</figcaption></figure>
+<figure><img src="../../assets/lesson14-run-settings.png" alt="Final average process configuration"><figcaption>Final process check before running.</figcaption></figure>
 </div>
 
 ### 5. Locate the result
@@ -57,8 +57,8 @@ Expand the condition folder and locate **AvgStderr: tapping/start (19)**. The `(
 Double-click the average result. Begin with the overview, then isolate a source–detector pair for a clearer HbO/HbR/HbT display.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson14-average-overview.png" alt="Average across all channels"><figcaption>Overview of the block-average result.</figcaption></figure>
-<figure><img src="../assets/lesson14-s1d1-average.png" alt="Average for source detector pair S1D1"><figcaption>Representative pair with mean traces and uncertainty shading.</figcaption></figure>
+<figure><img src="../../assets/lesson14-average-overview.png" alt="Average across all channels"><figcaption>Overview of the block-average result.</figcaption></figure>
+<figure><img src="../../assets/lesson14-s1d1-average.png" alt="Average for source detector pair S1D1"><figcaption>Representative pair with mean traces and uncertainty shading.</figcaption></figure>
 </div>
 
 ## Interpretation

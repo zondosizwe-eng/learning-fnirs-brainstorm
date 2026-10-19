@@ -31,8 +31,8 @@ Keep the original raw link. Brainstorm creates a derivative, so the two data sta
 4. Choose **Raw to delta optical density (dOD)**.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson09-preprocess-menu.png" alt="NIRS preprocessing menu"><figcaption>Enter the NIRS preprocessing branch.</figcaption></figure>
-<figure><img src="../assets/lesson09-dod-menu.png" alt="Raw to delta optical density menu"><figcaption>Select the raw-to-dOD process.</figcaption></figure>
+<figure><img src="../../assets/lesson09-preprocess-menu.png" alt="NIRS preprocessing menu"><figcaption>Enter the NIRS preprocessing branch.</figcaption></figure>
+<figure><img src="../../assets/lesson09-dod-menu.png" alt="Raw to delta optical density menu"><figcaption>Select the raw-to-dOD process.</figcaption></figure>
 </div>
 
 ### 3. Check the conversion options
@@ -58,8 +58,8 @@ Expand the run and look for a new entry labelled **Raw | OD**. This is the dOD d
 4. Drag **Raw | OD**, not **Link to raw file**, into **Files to process** for motion correction.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson09-od-display.png" alt="Delta optical density display"><figcaption>The converted dOD time series.</figcaption></figure>
-<figure><img src="../assets/lesson09-od-files-process.png" alt="OD link in Files to process"><figcaption>The correct input for Lesson 10.</figcaption></figure>
+<figure><img src="../../assets/lesson09-od-display.png" alt="Delta optical density display"><figcaption>The converted dOD time series.</figcaption></figure>
+<figure><img src="../../assets/lesson09-od-files-process.png" alt="OD link in Files to process"><figcaption>The correct input for Lesson 10.</figcaption></figure>
 </div>
 
 ## Understanding dOD simply

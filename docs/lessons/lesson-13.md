@@ -42,8 +42,8 @@ Use the settings visible in the final import dialogue:
 | Event group | `tapping/start (×20)` |
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson13-epoch-options.png" alt="Epoch and baseline options"><figcaption>Set the epoch and baseline windows.</figcaption></figure>
-<figure><img src="../assets/lesson13-final-import.png" alt="Final import dialogue"><figcaption>Final check before Import.</figcaption></figure>
+<figure><img src="../../assets/lesson13-epoch-options.png" alt="Epoch and baseline options"><figcaption>Set the epoch and baseline windows.</figcaption></figure>
+<figure><img src="../../assets/lesson13-final-import.png" alt="Final import dialogue"><figcaption>Final check before Import.</figcaption></figure>
 </div>
 
 Click **Import**. A `tapping/start` condition containing 20 files should appear.
@@ -57,8 +57,8 @@ Click **Import**. A `tapping/start` condition containing 20 files should appear.
 3. Continue through later epochs, checking the entire −10 to +30 s interval.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson13-first-epoch.png" alt="First imported epoch"><figcaption>The first epoch showed a likely filter-edge transient.</figcaption></figure>
-<figure><img src="../assets/lesson13-second-epoch.png" alt="Second imported epoch"><figcaption>A later epoch used for comparison.</figcaption></figure>
+<figure><img src="../../assets/lesson13-first-epoch.png" alt="First imported epoch"><figcaption>The first epoch showed a likely filter-edge transient.</figcaption></figure>
+<figure><img src="../../assets/lesson13-second-epoch.png" alt="Second imported epoch"><figcaption>A later epoch used for comparison.</figcaption></figure>
 </div>
 
 ### 6. Reject the contaminated trial

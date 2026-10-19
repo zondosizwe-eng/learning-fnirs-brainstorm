@@ -21,8 +21,8 @@ The channel-level Hb pathway from Lessons 11–14 remains valid for time-series 
 3. Browse to `segmentation_5tissues.nii` and click **Choose**.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson15-import-volume.png" alt="Import MRI command"><figcaption>Open the volume-import command for sub-01.</figcaption></figure>
-<figure><img src="../assets/lesson15-select-segmentation.png" alt="Selecting segmentation 5 tissues"><figcaption>Select `segmentation_5tissues.nii`.</figcaption></figure>
+<figure><img src="../../assets/lesson15-import-volume.png" alt="Import MRI command"><figcaption>Open the volume-import command for sub-01.</figcaption></figure>
+<figure><img src="../../assets/lesson15-select-segmentation.png" alt="Selecting segmentation 5 tissues"><figcaption>Select `segmentation_5tissues.nii`.</figcaption></figure>
 </div>
 
 ### 2. Register and reslice the volume
@@ -32,8 +32,8 @@ The channel-level Hb pathway from Lessons 11–14 remains valid for time-series 
 3. Inspect the axial, coronal and sagittal overlays for plausible tissue alignment.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson15-registration-method.png" alt="MRI registration method prompt"><figcaption>Choose the appropriate registration route.</figcaption></figure>
-<figure><img src="../assets/lesson15-reslice-prompt.png" alt="Reslice volume prompt"><figcaption>Reslice the segmentation to the reference MRI grid.</figcaption></figure>
+<figure><img src="../../assets/lesson15-registration-method.png" alt="MRI registration method prompt"><figcaption>Choose the appropriate registration route.</figcaption></figure>
+<figure><img src="../../assets/lesson15-reslice-prompt.png" alt="Reslice volume prompt"><figcaption>Reslice the segmentation to the reference MRI grid.</figcaption></figure>
 </div>
 
 ![Five tissue segmentation displayed on anatomy](../assets/lesson15-segmentation-display.png)
@@ -48,8 +48,8 @@ The channel-level Hb pathway from Lessons 11–14 remains valid for time-series 
 6. Click **Run**.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson15-rename-menu.png" alt="File rename menu"><figcaption>Right-click → File → Rename.</figcaption></figure>
-<figure><img src="../assets/lesson15-voronoi-settings.png" alt="Voronoi interpolation settings"><figcaption>Grey-matter-masked volume-to-cortex interpolation.</figcaption></figure>
+<figure><img src="../../assets/lesson15-rename-menu.png" alt="File rename menu"><figcaption>Right-click → File → Rename.</figcaption></figure>
+<figure><img src="../../assets/lesson15-voronoi-settings.png" alt="Voronoi interpolation settings"><figcaption>Grey-matter-masked volume-to-cortex interpolation.</figcaption></figure>
 </div>
 
 ## Part B — Compute the optical head model
@@ -86,8 +86,8 @@ On the Windows computer we:
 5. Continued only after the run returned without an error.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson15-windows-model-input.png" alt="Wavelength dOD selected on Windows"><figcaption>The correct wavelength-domain input.</figcaption></figure>
-<figure><img src="../assets/lesson15-windows-model-settings.png" alt="Windows head model settings"><figcaption>The compatible fluence directory and smoothing settings.</figcaption></figure>
+<figure><img src="../../assets/lesson15-windows-model-input.png" alt="Wavelength dOD selected on Windows"><figcaption>The correct wavelength-domain input.</figcaption></figure>
+<figure><img src="../../assets/lesson15-windows-model-settings.png" alt="Windows head model settings"><figcaption>The compatible fluence directory and smoothing settings.</figcaption></figure>
 </div>
 
 ### 8. Extract and display sensitivity measures
@@ -97,8 +97,8 @@ Run **Extract sensitivity surfaces from head model**. Choose the required measur
 ![Sensitivity extraction options](../assets/lesson15-sensitivity-options.png)
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson15-coverage-map.png" alt="Cortical coverage map"><figcaption>Coverage: cortex sampled by the montage.</figcaption></figure>
-<figure><img src="../assets/lesson15-overlap-map.png" alt="Cortical overlap map"><figcaption>Overlap: where measurement sensitivities overlap.</figcaption></figure>
+<figure><img src="../../assets/lesson15-coverage-map.png" alt="Cortical coverage map"><figcaption>Coverage: cortex sampled by the montage.</figcaption></figure>
+<figure><img src="../../assets/lesson15-overlap-map.png" alt="Cortical overlap map"><figcaption>Overlap: where measurement sensitivities overlap.</figcaption></figure>
 </div>
 
 ![Summed light sensitivity map](../assets/lesson15-summed-sensitivity.png)

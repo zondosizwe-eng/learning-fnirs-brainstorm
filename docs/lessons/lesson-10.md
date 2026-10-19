@@ -25,8 +25,8 @@ Drag **Raw | OD** into **Files to process**. The label must include OD; do not u
 4. Select **TDDR** rather than spline correction for this lesson.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson10-motion-menu.png" alt="NIRS motion correction menu"><figcaption>Open the NIRS motion-correction tools.</figcaption></figure>
-<figure><img src="../assets/lesson10-method-menu.png" alt="Motion correction choices"><figcaption>Choose TDDR from the available methods.</figcaption></figure>
+<figure><img src="../../assets/lesson10-motion-menu.png" alt="NIRS motion correction menu"><figcaption>Open the NIRS motion-correction tools.</figcaption></figure>
+<figure><img src="../../assets/lesson10-method-menu.png" alt="Motion correction choices"><figcaption>Choose TDDR from the available methods.</figcaption></figure>
 </div>
 
 ### 3. Run the process
@@ -49,8 +49,8 @@ A new motion-corrected OD result should appear beneath the run. Keep both the un
 4. Look for reduced steps or spikes without flattening the slow signal.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson10-raw-0-30.png" alt="Uncorrected OD from zero to thirty seconds"><figcaption>Before TDDR: 0–30 s.</figcaption></figure>
-<figure><img src="../assets/lesson10-tddr-0-30.png" alt="Corrected OD from zero to thirty seconds"><figcaption>After TDDR: the matched interval.</figcaption></figure>
+<figure><img src="../../assets/lesson10-raw-0-30.png" alt="Uncorrected OD from zero to thirty seconds"><figcaption>Before TDDR: 0–30 s.</figcaption></figure>
+<figure><img src="../../assets/lesson10-tddr-0-30.png" alt="Corrected OD from zero to thirty seconds"><figcaption>After TDDR: the matched interval.</figcaption></figure>
 </div>
 
 ### 6. Inspect the entire recording
@@ -58,8 +58,8 @@ A new motion-corrected OD result should appear beneath the run. Keep both the un
 Display the full recording before and after correction. A full view helps locate candidate motion periods; a short matched view then shows whether TDDR altered them appropriately.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson10-full-before.png" alt="Entire OD recording before TDDR"><figcaption>Entire recording before TDDR.</figcaption></figure>
-<figure><img src="../assets/lesson10-full-after.png" alt="Entire OD recording after TDDR"><figcaption>Entire recording after TDDR.</figcaption></figure>
+<figure><img src="../../assets/lesson10-full-before.png" alt="Entire OD recording before TDDR"><figcaption>Entire recording before TDDR.</figcaption></figure>
+<figure><img src="../../assets/lesson10-full-after.png" alt="Entire OD recording after TDDR"><figcaption>Entire recording after TDDR.</figcaption></figure>
 </div>
 
 ## Why TDDR?

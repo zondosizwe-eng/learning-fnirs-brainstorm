@@ -23,8 +23,8 @@ Select the motion-corrected OD result from Lesson 10 and place it in **Files to 
 3. Choose the process that converts dOD to haemoglobin using MBLL.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson11-pipeline.png" alt="Pipeline editor with corrected dOD"><figcaption>The corrected dOD is the only input.</figcaption></figure>
-<figure><img src="../assets/lesson11-mbll-menu.png" alt="MBLL process menu"><figcaption>Select the dOD-to-haemoglobin process.</figcaption></figure>
+<figure><img src="../../assets/lesson11-pipeline.png" alt="Pipeline editor with corrected dOD"><figcaption>The corrected dOD is the only input.</figcaption></figure>
+<figure><img src="../../assets/lesson11-mbll-menu.png" alt="MBLL process menu"><figcaption>Select the dOD-to-haemoglobin process.</figcaption></figure>
 </div>
 
 ### 3. Review the MBLL settings
@@ -54,8 +54,8 @@ Expand the output tree and locate **Hb [Topo]**. `Hb` identifies haemoglobin-der
 4. Confirm that HbO, HbR and HbT traces are available.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson11-hb-overview.png" alt="Haemoglobin time series overview"><figcaption>Overview of the haemoglobin recording.</figcaption></figure>
-<figure><img src="../assets/lesson11-display-menu.png" alt="Display controls for haemoglobin channels"><figcaption>Choose a pair or chromophore through Display.</figcaption></figure>
+<figure><img src="../../assets/lesson11-hb-overview.png" alt="Haemoglobin time series overview"><figcaption>Overview of the haemoglobin recording.</figcaption></figure>
+<figure><img src="../../assets/lesson11-display-menu.png" alt="Display controls for haemoglobin channels"><figcaption>Choose a pair or chromophore through Display.</figcaption></figure>
 </div>
 
 ![Three haemoglobin traces for one source detector pair](../assets/lesson11-three-traces.png)

@@ -58,8 +58,8 @@ Click **Run**. Brainstorm creates wavelength and chromophore source results.
 4. Keep **Values: Relative**.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson16-result-menu.png" alt="Source result display menu"><figcaption>Open the source result and its display controls.</figcaption></figure>
-<figure><img src="../assets/lesson16-scout-map.png" alt="Right hand scout on cortex"><figcaption>The red outline is an anatomical scout, not significance.</figcaption></figure>
+<figure><img src="../../assets/lesson16-result-menu.png" alt="Source result display menu"><figcaption>Open the source result and its display controls.</figcaption></figure>
+<figure><img src="../../assets/lesson16-scout-map.png" alt="Right hand scout on cortex"><figcaption>The red outline is an anatomical scout, not significance.</figcaption></figure>
 </div>
 
 ### 5. Plot the scout time course
@@ -67,8 +67,8 @@ Click **Run**. Brainstorm creates wavelength and chromophore source results.
 Click the graph icon immediately to the left of **Atlas**. To compare HbO and HbR, open both result files and select **Overlay: Files**.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson16-overlay-view.png" alt="Overlaying source results"><figcaption>Overlay the chromophore result files.</figcaption></figure>
-<figure><img src="../assets/lesson16-scout-timecourse.png" alt="Scout time course"><figcaption>Task-locked scout response across −10 to +30 s.</figcaption></figure>
+<figure><img src="../../assets/lesson16-overlay-view.png" alt="Overlaying source results"><figcaption>Overlay the chromophore result files.</figcaption></figure>
+<figure><img src="../../assets/lesson16-scout-timecourse.png" alt="Scout time course"><figcaption>Task-locked scout response across −10 to +30 s.</figcaption></figure>
 </div>
 
 In our descriptive example, HbO rose and HbR decreased around the expected post-onset period. This is a single-participant demonstration, not a significance test.
@@ -82,8 +82,8 @@ In our descriptive example, HbO rose and HbR decreased around the expected post-
 3. Confirm that the red time cursor moves to 12.20 s.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson16-time-field.png" alt="Current time field"><figcaption>Locate the current-time control.</figcaption></figure>
-<figure><img src="../assets/lesson16-time-1220.png" alt="Map at 12.20 seconds"><figcaption>Confirm the map is evaluated at 12.20 s.</figcaption></figure>
+<figure><img src="../../assets/lesson16-time-field.png" alt="Current time field"><figcaption>Locate the current-time control.</figcaption></figure>
+<figure><img src="../../assets/lesson16-time-1220.png" alt="Map at 12.20 seconds"><figcaption>Confirm the map is evaluated at 12.20 s.</figcaption></figure>
 </div>
 
 ### 7. Make the map signed and visible
@@ -99,22 +99,22 @@ Repeat these steps for HbO and HbR:
 7. Keep the RC hand scout outline visible.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson16-display-options.png" alt="Source display options"><figcaption>Set amplitude and signed display options.</figcaption></figure>
-<figure><img src="../assets/lesson16-signed-map.png" alt="Signed cortical map"><figcaption>Signed colour scale preserves increases and decreases.</figcaption></figure>
+<figure><img src="../../assets/lesson16-display-options.png" alt="Source display options"><figcaption>Set amplitude and signed display options.</figcaption></figure>
+<figure><img src="../../assets/lesson16-signed-map.png" alt="Signed cortical map"><figcaption>Signed colour scale preserves increases and decreases.</figcaption></figure>
 </div>
 
 ### 8. Save the HbO and HbR figures
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson16-hbo-signed-map.png" alt="HbO cortical map at 12.20 seconds"><figcaption><strong>HbO:</strong> positive red/yellow response near the hand scout.</figcaption></figure>
-<figure><img src="../assets/lesson16-hbr-signed-map.png" alt="HbR cortical map at 12.20 seconds"><figcaption><strong>HbR:</strong> negative blue/purple response in a similar region.</figcaption></figure>
+<figure><img src="../../assets/lesson16-hbo-signed-map.png" alt="HbO cortical map at 12.20 seconds"><figcaption><strong>HbO:</strong> positive red/yellow response near the hand scout.</figcaption></figure>
+<figure><img src="../../assets/lesson16-hbr-signed-map.png" alt="HbR cortical map at 12.20 seconds"><figcaption><strong>HbR:</strong> negative blue/purple response in a similar region.</figcaption></figure>
 </div>
 
 The tutorial comparison views below helped define the desired signed-map appearance.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson16-hbo-tutorial-view.png" alt="Tutorial style HbO view"><figcaption>Tutorial-style HbO target.</figcaption></figure>
-<figure><img src="../assets/lesson16-hbr-tutorial-view.png" alt="Tutorial style HbR view"><figcaption>Tutorial-style HbR target.</figcaption></figure>
+<figure><img src="../../assets/lesson16-hbo-tutorial-view.png" alt="Tutorial style HbO view"><figcaption>Tutorial-style HbO target.</figcaption></figure>
+<figure><img src="../../assets/lesson16-hbr-tutorial-view.png" alt="Tutorial style HbR view"><figcaption>Tutorial-style HbR target.</figcaption></figure>
 </div>
 
 ## Interpretation boundaries

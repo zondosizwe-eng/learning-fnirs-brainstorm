@@ -50,8 +50,8 @@ Click **View filter response**. Confirm that the passband lies between 0.01 and 
 A new branch labelled **IIR-band** should appear. Expand it and select its Hb output.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson12-output-folder.png" alt="IIR band output folder"><figcaption>The new filtered branch.</figcaption></figure>
-<figure><img src="../assets/lesson12-output-tree.png" alt="Filtered Hb selected in tree"><figcaption>Select the derivative inside IIR-band.</figcaption></figure>
+<figure><img src="../../assets/lesson12-output-folder.png" alt="IIR band output folder"><figcaption>The new filtered branch.</figcaption></figure>
+<figure><img src="../../assets/lesson12-output-tree.png" alt="Filtered Hb selected in tree"><figcaption>Select the derivative inside IIR-band.</figcaption></figure>
 </div>
 
 ### 6. Compare filtered and unfiltered data
@@ -59,8 +59,8 @@ A new branch labelled **IIR-band** should appear. Expand it and select its Hb ou
 Open both versions with the same time window and scale. Filtering should reduce slow baseline wander and high-frequency variation without erasing the slower haemodynamic structure.
 
 <div class="figure-grid">
-<figure><img src="../assets/lesson12-unfiltered-display.png" alt="Unfiltered haemoglobin display"><figcaption>Before band-pass filtering.</figcaption></figure>
-<figure><img src="../assets/lesson12-filtered-display.png" alt="Filtered haemoglobin display"><figcaption>After band-pass filtering.</figcaption></figure>
+<figure><img src="../../assets/lesson12-unfiltered-display.png" alt="Unfiltered haemoglobin display"><figcaption>Before band-pass filtering.</figcaption></figure>
+<figure><img src="../../assets/lesson12-filtered-display.png" alt="Filtered haemoglobin display"><figcaption>After band-pass filtering.</figcaption></figure>
 </div>
 
 ## Important cautions

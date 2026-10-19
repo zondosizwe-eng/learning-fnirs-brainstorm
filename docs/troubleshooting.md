@@ -27,8 +27,8 @@ The compatible fluences were obtained or generated on Windows, the head model wa
 - Summed Sensitivities
 
 <div class="figure-grid">
-<figure><img src="assets/images/head-model-settings.png" alt="NIRSTORM head model settings"><figcaption>Head-model settings used during the fluence import.</figcaption></figure>
-<figure><img src="assets/images/fluence-error.png" alt="Earlier missing fluence error"><figcaption>The earlier error is retained as a reproducible troubleshooting example.</figcaption></figure>
+<figure><img src="../assets/images/head-model-settings.png" alt="NIRSTORM head model settings"><figcaption>Head-model settings used during the fluence import.</figcaption></figure>
+<figure><img src="../assets/images/fluence-error.png" alt="Earlier missing fluence error"><figcaption>The earlier error is retained as a reproducible troubleshooting example.</figcaption></figure>
 </div>
 
 ## General diagnostic sequence
