@@ -1,0 +1,70 @@
+:root {
+  --md-primary-fg-color: #0e6b68;
+  --md-accent-fg-color: #8aa633;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  color: #164e55;
+}
+
+.lesson-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: .75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.lesson-meta > div {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .5rem;
+  padding: .8rem 1rem;
+}
+
+.figure-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.figure-grid figure {
+  margin: 0;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .5rem;
+  overflow: hidden;
+}
+
+.figure-grid img {
+  width: 100%;
+  background: #151919;
+}
+
+.md-typeset img {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .35rem;
+  box-shadow: 0 .15rem .45rem rgba(0, 0, 0, .12);
+}
+
+.md-typeset > p > img {
+  display: block;
+  margin: 1rem auto .35rem;
+}
+
+.figure-grid figcaption {
+  padding: .75rem 1rem;
+  font-size: .85rem;
+}
+
+.quiz details {
+  border-left: .25rem solid #0e6b68;
+  margin: .75rem 0;
+  padding: .5rem .8rem;
+  background: color-mix(in srgb, #0e6b68 7%, transparent);
+}
+
+@media screen and (max-width: 44.984375em) {
+  .figure-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

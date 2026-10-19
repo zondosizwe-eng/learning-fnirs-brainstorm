@@ -1,0 +1,76 @@
+site_name: Learning fNIRS with Brainstorm/NIRSTORM
+site_description: A practical 18-lesson student course built around a finger-tapping experiment.
+site_author: Sizwe Zondo
+copyright: Course materials by Sizwe Zondo
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.footer
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Course orientation:
+      - How to use this course: getting-started.md
+      - Analysis workflow: workflow.md
+      - Acknowledgements and key publications: acknowledgements.md
+  - Lessons:
+      - 1. Setup and orientation: lessons/lesson-01.md
+      - 2. Understanding the experiment: lessons/lesson-02.md
+      - 3. Protocol and anatomy: lessons/lesson-03.md
+      - 4. Montage and coregistration: lessons/lesson-04.md
+      - 5. Publication-style montage views: lessons/lesson-05.md
+      - 6. Explore the raw recording: lessons/lesson-06.md
+      - 7. Events and timing: lessons/lesson-07.md
+      - 8. Data quality and bad channels: lessons/lesson-08.md
+      - 9. Convert to optical density: lessons/lesson-09.md
+      - 10. TDDR motion correction: lessons/lesson-10.md
+      - 11. Haemoglobin conversion: lessons/lesson-11.md
+      - 12. Band-pass filtering: lessons/lesson-12.md
+      - 13. Epoching and trial review: lessons/lesson-13.md
+      - 14. Block averaging: lessons/lesson-14.md
+      - 15. Optical head model: lessons/lesson-15.md
+      - 16. Cortical reconstruction: lessons/lesson-16.md
+      - 17. Five-participant replication — Coming later: lessons/lesson-17.md
+      - 18. Group analysis and reporting — Coming later: lessons/lesson-18.md
+  - Reference:
+      - Troubleshooting: troubleshooting.md
+      - Glossary: glossary.md
+      - Publication-readiness checklist: review-checklist.md
+
