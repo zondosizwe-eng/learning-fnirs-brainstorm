@@ -47,3 +47,11 @@ Before publishing data-derived screenshots beyond the intended teaching context,
 This teaching adaptation was developed by **Sizwe Zondo, Department of Psychology, Rhodes University**, for postgraduate training in practical fNIRS analysis.
 
 When referring to the software or scientific workflow, students should cite the original publications above rather than citing this teaching guide as the source of the methods.
+
+## Licence and reuse
+
+Except where otherwise noted, the original course text and teaching materials are © 2026 Sizwe Zondo and licensed under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/).
+
+Software-interface screenshots, trademarks, linked publications, datasets and other third-party material remain the property of their respective rights holders and are not relicensed under CC BY 4.0 unless explicitly stated. Reuse of those materials may require separate permission.
+
+Suggested attribution: **Zondo, S. (2026). _Learning fNIRS with Brainstorm/NIRSTORM_.** [https://learning-fnirs-brainstorm.readthedocs.io/en/latest/](https://learning-fnirs-brainstorm.readthedocs.io/en/latest/)

@@ -51,3 +51,12 @@ The repository already contains the required `.readthedocs.yaml` configuration. 
 - `docs/assets/images/` contains teaching figures.
 - `docs/assets/stylesheets/extra.css` contains the course styling.
 
+## Licence
+
+Except where otherwise noted, the original course text and teaching materials in this repository are © 2026 Sizwe Zondo and licensed under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/).
+
+Software-interface screenshots, trademarks, linked publications, datasets and other third-party material remain the property of their respective rights holders and are not relicensed under CC BY 4.0 unless explicitly stated. Reuse of those materials may require separate permission.
+
+Suggested attribution: **Zondo, S. (2026). _Learning fNIRS with Brainstorm/NIRSTORM_.** [https://learning-fnirs-brainstorm.readthedocs.io/en/latest/](https://learning-fnirs-brainstorm.readthedocs.io/en/latest/)
+
+See the full [LICENSE](LICENSE) text for details.
